@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:22:"http://jp.reuters.com/";s:8:"feed_url";s:42:"http://feeds.reuters.com/reuters/JPTopNews";s:5:"build";s:14:"20140207102922";}

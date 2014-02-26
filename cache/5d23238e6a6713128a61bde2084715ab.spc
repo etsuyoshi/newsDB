@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:30:"http://b.hatena.ne.jp/hotentry";s:8:"feed_url";s:34:"http://b.hatena.ne.jp/hotentry.rss";s:5:"build";s:14:"20140207102922";}

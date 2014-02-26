@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:19:"http://techable.jp/";s:8:"feed_url";s:23:"http://techable.jp/feed";s:5:"build";s:14:"20140207102922";}
